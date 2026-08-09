@@ -24,7 +24,7 @@ Most AI-assisted architecture reviews either hallucinate confidence (assuming en
 
 **Claude Code**:
 ```bash
-git clone https://github.com/<your-username>/arch-security-review.git
+git clone https://github.com/sharmajii10/arch-security-review.git
 cp -r arch-security-review/arch-security-review ~/.claude/skills/
 ```
 Or drop the `arch-security-review/` folder into a project's `.claude/skills/` to share it with your whole team via the repo.
